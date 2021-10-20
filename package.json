@@ -1,6 +1,6 @@
 {
-  "name": "electron-push-receiver",
-  "version": "2.1.3",
+  "name": "electron-push-receiver-fork",
+  "version": "2.1.4",
   "description": "A module to receive FCM notifications in electron",
   "main": "src/index.js",
   "repository": "https://github.com/MatthieuLemoine/electron-push-receiver",
